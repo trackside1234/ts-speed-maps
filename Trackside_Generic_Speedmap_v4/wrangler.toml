@@ -1,0 +1,8 @@
+name = 'ts-speed-maps'
+main = "index.js"
+compatibility_date = "2026-09-02"
+workers_dev = true
+
+[vars]
+VIZ_SHOW_ID = "{9AD04751-8200-4E9D-A0CC-039CCDD29B0C}"
+VIZ_CREATOR_VERSION = "3.2.4 (Build 24895)"
