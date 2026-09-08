@@ -1,4 +1,4 @@
-name = "generic-speedmap"
+name = 'ts-speed-maps'
 main = "src/index.js"
 compatibility_date = "2026-09-08"
 workers_dev = false
