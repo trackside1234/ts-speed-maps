@@ -1,0 +1,1 @@
+{"name":"trackside-generic-speedmap","private":true,"scripts":{"check":"node --check src/index.js"},"devDependencies":{"wrangler":"^4.130.0"}}
